@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/site-vitrine/static/css/main.67a0d758.css",
-    "main.js": "/site-vitrine/static/js/main.c8e6bba4.js",
+    "main.js": "/site-vitrine/static/js/main.7379d734.js",
     "static/media/trees.gif": "/site-vitrine/static/media/trees.8cefba3c0b3b8e150ac9.gif",
     "static/media/meteo.png": "/site-vitrine/static/media/meteo.2009f369912d37003c01.png",
     "static/media/sample.png": "/site-vitrine/static/media/sample.24b08a67a0ef05b67dd7.png",
@@ -11,14 +11,15 @@
     "static/media/team_7.png": "/site-vitrine/static/media/team_7.e3fe82f89b79f59e351c.png",
     "static/media/team_6.png": "/site-vitrine/static/media/team_6.4f74bf02f9e9f4972c48.png",
     "static/media/team_1.png": "/site-vitrine/static/media/team_1.ebaa346fc74d99a685aa.png",
+    "static/media/team_4.png": "/site-vitrine/static/media/team_4.9f7b983ff761501b03cc.png",
     "static/media/team_5.png": "/site-vitrine/static/media/team_5.e3b43c757346cc9f3247.png",
-    "static/media/team_3.png": "/site-vitrine/static/media/team_3.59ec5579c28b4736d8e9.png",
+    "static/media/team_3.png": "/site-vitrine/static/media/team_3.3afb3dd177190fc6382a.png",
     "index.html": "/site-vitrine/index.html",
     "main.67a0d758.css.map": "/site-vitrine/static/css/main.67a0d758.css.map",
-    "main.c8e6bba4.js.map": "/site-vitrine/static/js/main.c8e6bba4.js.map"
+    "main.7379d734.js.map": "/site-vitrine/static/js/main.7379d734.js.map"
   },
   "entrypoints": [
     "static/css/main.67a0d758.css",
-    "static/js/main.c8e6bba4.js"
+    "static/js/main.7379d734.js"
   ]
 }
