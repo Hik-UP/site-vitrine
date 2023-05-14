@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/site-vitrine/static/css/main.61eb72e2.css",
-    "main.js": "/site-vitrine/static/js/main.b0736fda.js",
+    "main.css": "/site-vitrine/static/css/main.e83ece8d.css",
+    "main.js": "/site-vitrine/static/js/main.a261f924.js",
+    "static/media/nature.gif": "/site-vitrine/static/media/nature.29318c974d68a52ed468.gif",
     "static/media/trees.gif": "/site-vitrine/static/media/trees.8cefba3c0b3b8e150ac9.gif",
     "static/media/meteo.png": "/site-vitrine/static/media/meteo.2009f369912d37003c01.png",
     "static/media/sample.png": "/site-vitrine/static/media/sample.24b08a67a0ef05b67dd7.png",
-    "static/media/logo.png": "/site-vitrine/static/media/logo.c7fffb504a170ad6d1a2.png",
     "static/media/navigation.png": "/site-vitrine/static/media/navigation.7e37b6650621e6e9be03.png",
+    "static/media/logo.png": "/site-vitrine/static/media/logo.b5eea2e0b603176833ba.png",
     "static/media/team_2.png": "/site-vitrine/static/media/team_2.ba09be71395eea7c51c5.png",
     "static/media/team_7.png": "/site-vitrine/static/media/team_7.e3fe82f89b79f59e351c.png",
     "static/media/team_6.png": "/site-vitrine/static/media/team_6.4f74bf02f9e9f4972c48.png",
     "static/media/team_1.png": "/site-vitrine/static/media/team_1.ebaa346fc74d99a685aa.png",
     "static/media/team_4.png": "/site-vitrine/static/media/team_4.9f7b983ff761501b03cc.png",
-    "static/media/team_5.png": "/site-vitrine/static/media/team_5.e3b43c757346cc9f3247.png",
+    "static/media/team_5.png": "/site-vitrine/static/media/team_5.61ee67df456e0149941c.png",
+    "static/media/everybody.png": "/site-vitrine/static/media/everybody.47db4c92f81bc1f40bda.png",
+    "static/media/effort.png": "/site-vitrine/static/media/effort.0e79731d1535f92b27a7.png",
     "static/media/team_3.png": "/site-vitrine/static/media/team_3.3afb3dd177190fc6382a.png",
+    "static/media/park.png": "/site-vitrine/static/media/park.43df1ff2ae9a05cdf73d.png",
+    "static/media/preparation.png": "/site-vitrine/static/media/preparation.5fe3891aa469227c087e.png",
     "index.html": "/site-vitrine/index.html",
-    "main.61eb72e2.css.map": "/site-vitrine/static/css/main.61eb72e2.css.map",
-    "main.b0736fda.js.map": "/site-vitrine/static/js/main.b0736fda.js.map"
+    "main.e83ece8d.css.map": "/site-vitrine/static/css/main.e83ece8d.css.map",
+    "main.a261f924.js.map": "/site-vitrine/static/js/main.a261f924.js.map"
   },
   "entrypoints": [
-    "static/css/main.61eb72e2.css",
-    "static/js/main.b0736fda.js"
+    "static/css/main.e83ece8d.css",
+    "static/js/main.a261f924.js"
   ]
 }
